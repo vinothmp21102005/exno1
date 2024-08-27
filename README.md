@@ -1,6 +1,8 @@
-# Exno:1
-Data Cleaning Process
+# Exno:1 Data Cleaning Process
 
+### NAME : VINOTH M P
+### REG NO : 212223240182
+### DATE : 27/08/2005
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
 
